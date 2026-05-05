@@ -1,6 +1,6 @@
-### Hi, I'm Agata!
+## Hi, I'm Agata!
 
-**Bioinformatician & Computational Scientist in Precision Oncology**
+### **Bioinformatician & Computational Scientist in Precision Oncology**
 
 I specialize in statistical modeling and analysis of clinical and biomarker data, with experience supporting Phase II–III oncology trials and regulatory submissions. My work focuses on reproducible data pipelines, high-dimensional data analysis, and translational research.
 
