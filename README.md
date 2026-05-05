@@ -26,7 +26,7 @@ I specialize in statistical modeling and analysis of clinical and biomarker data
 Modeling drug sensitivity in lung cancer cell lines using GDSC pharmacogenomic data.  
 - IC50 estimation and dose–response curves  
 - R (drc, ggplot2)  
-*[Link]*  
+*[https://github.com/agata-w03/parp-dose-response]*  
 
 **2. Differential Gene Expression in Intrahepatic Cholangiocarcinoma**
 RNA-seq analysis identifying early molecular features of ICC.  
