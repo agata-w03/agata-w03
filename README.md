@@ -21,18 +21,25 @@ I specialize in statistical modeling and analysis of clinical and biomarker data
 
 ---
 
----
-
 ### 🧪 Featured Projects
 
-**1. PARP Inhibitor Dose–Response Modeling in Lung Cancer**
-Reproducible pharmacogenomic analysis of PARP inhibitor sensitivity in the PC-14 lung cancer cell line using Genomics of Drug Sensitivity in Cancer (GDS
-*[https://github.com/agata-w03/pharmacogenomic-parp-response-modeling]*  
+#### 1. PARP Inhibitor Dose–Response Modeling in Lung Cancer
 
-**2. Differential Gene Expression in Intrahepatic Cholangiocarcinoma**
-*[Link]*
+Reproducible pharmacogenomic analysis of PARP inhibitor sensitivity in the PC-14 lung cancer cell line using Genomics of Drug Sensitivity in Cancer (GDSC) screening data.
 
-**3. RNA-seq Analysis of Colorectal Cancer**
-*[Link]*
+- Four-parameter log-logistic dose–response modeling  
+- IC50, AUC, and pharmacological parameter estimation  
+- Visualization of dose–response profiles
+- Reproducible analytical workflow using modular R scripts  
+
+**Technologies:** R, tidyverse, drc, ggplot2, pharmacogenomic data analysis  
+
+🔗 *https://github.com/agata-w03/pharmacogenomic-parp-response-modeling*
+
+#### 2. Differential Gene Expression in Intrahepatic Cholangiocarcinoma
+🔗 comming soon 
+
+#### 3. RNA-seq Analysis of Colorectal Cancer
+🔗 comming soon 
 
 ---
