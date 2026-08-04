@@ -25,15 +25,15 @@ I specialize in statistical modeling and analysis of clinical and biomarker data
 
 #### 1. Network-Based Proteomics Analysis for Biomarker Discovery
 
-Reproducible machine learning workflow for quantitative proteomics data using a synthetic protein expression dataset.
+A reproducible workflow demonstrating network-based analysis of quantitative proteomics data, from preprocessing and network inference to protein module detection and exploratory biomarker discovery.
 
-- Data preprocessing and normalization
-- Feature selection and PCA
-- Supervised classification with cross-validation
-- ROC-based model evaluation
-- Modular and reproducible Python workflow
+- Data preprocessing and Quality Control
+- Protein association network inference using correlation analysis
+- CORUM-guided network threshold optimization
+- Protein module detection and eigengene-based module summarization
+- Reproducible Python workflow with publication-ready visualizations
 
-**Technologies:** Python, pandas, NumPy, scikit-learn, matplotlib, machine learning, proteomics data analysis
+**Technologies:** Python, pandas, NumPy, SciPy, scikit-learn, NetworkX, python-louvain, matplotlib, seaborn
 
 🔗 coming soon 
 
