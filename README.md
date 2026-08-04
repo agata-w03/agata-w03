@@ -23,7 +23,7 @@ I specialize in statistical modeling and analysis of clinical and biomarker data
 
 ### 🧪 Featured Projects
 
-#### 1. Proteomics Biomarker Discovery with Machine Learning
+#### 1. Network-Based Proteomics Analysis for Biomarker Discovery
 
 Reproducible machine learning workflow for quantitative proteomics data using a synthetic protein expression dataset.
 
