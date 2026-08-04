@@ -23,7 +23,21 @@ I specialize in statistical modeling and analysis of clinical and biomarker data
 
 ### 🧪 Featured Projects
 
-#### 1. PARP Inhibitor Dose–Response Modeling in Lung Cancer
+#### 1. Proteomics Biomarker Discovery with Machine Learning
+
+Reproducible machine learning workflow for quantitative proteomics data using a synthetic protein expression dataset.
+
+- Data preprocessing and normalization
+- Feature selection and PCA
+- Supervised classification with cross-validation
+- ROC-based model evaluation
+- Modular and reproducible Python workflow
+
+**Technologies:** Python, pandas, NumPy, scikit-learn, matplotlib, machine learning, proteomics data analysis
+
+🔗 coming soon 
+
+#### 2. PARP Inhibitor Dose–Response Modeling in Lung Cancer
 
 Reproducible pharmacogenomic analysis of PARP inhibitor sensitivity in the PC-14 lung cancer cell line using Genomics of Drug Sensitivity in Cancer (GDSC) screening data.
 
@@ -36,10 +50,11 @@ Reproducible pharmacogenomic analysis of PARP inhibitor sensitivity in the PC-14
 
 🔗 *https://github.com/agata-w03/pharmacogenomic-parp-response-modeling*
 
-#### 2. Differential Gene Expression in Intrahepatic Cholangiocarcinoma
-🔗 comming soon 
+#### 3. Differential Gene Expression in Intrahepatic Cholangiocarcinoma
+🔗 coming soon 
 
-#### 3. RNA-seq Analysis of Colorectal Cancer
-🔗 comming soon 
+#### 4. RNA-seq Analysis of Colorectal Cancer
+🔗 coming soon 
+
 
 ---
